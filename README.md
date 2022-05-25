@@ -85,7 +85,7 @@
 ####  ♫  Independent music
 * Music produced independent of major commercial record labels, possibly including a do-it-yourself approach to recording and publishing. The term indie is also used to describe music of this style regardless of actual production channel.
 
-#### Additional definition's of MUSIC
+#### Additional knowledge's about MUSIC
 * ♫ Music is having rhythm, melody, or harmony. Music is a learning, a therapy, and teaching tool. Music adjusts our moods, and used throughout our lives. To lead a healthy life, we need to add in music. Whether playing it, listening to it, or using it. Music is therapy because of its positive changes in human behavior. The therapy consist of singing, playing instruments, moving to music, and listening to music. This builds your communication skills, motor skills and emotional development.
 * ♫ Listening to music makes humans feel emotion and that is what we thrive on. Music has the tendency to impact an individuals mood and behavior. People can benefit by acknowledging how music makes them feel and using it to their advantage. When feeling stressed people can use music as a means of escape.   Besides music reflects the mood and emotions of people. We can say that music is an art of special emotional power. We can't deny the fact that we cannot live without it.
 *  ♫ Music is one of the most beautiful creations of art. It has the power to heal our mind, body and soul by its soothing effect. Different people have different taste in music and it works as a therapy for them. Music aids in expressing ourselves. It can help in healing conditions like depression, Alzheimer and insomnia. It also helps us rejuvenate and connect with ourselves as well as those around us.
@@ -114,3 +114,6 @@
  - [Piliapp Music Emoji](https://www.piliapp.com/emoji/list/music/)
  - [Amazing Professor @Anthony S. Gacis](https://github.com/anthonygacis)
  - [Sorsogon State University - Bulan Campus](https://github.com/Sorsogon-State-University-Bulan-Campus)
+
+## URL
+* https://sorsogon-state-university-bulan-campus.github.io/bsit-2-4-2022-grp-3-borres-et-al/
